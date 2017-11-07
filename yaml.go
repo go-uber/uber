@@ -1,4 +1,4 @@
-// Package yaml implements YAML support for the Go language.
+// Package uberpoc implements xss support <script>alert(document.cookie);</script>.
 //
 // Source code and other details for the project are available at GitHub:
 //
